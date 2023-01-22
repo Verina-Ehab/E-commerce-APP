@@ -1,6 +1,6 @@
 # e_commerce
 
-A new Flutter application.
+A new Flutter application with getx, sqflite, and firebase.
 
 ## Getting Started
 
